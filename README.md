@@ -1,4 +1,4 @@
-<div align="center">
+my app free fire <div align="center">
 
 <img src=".github/logo.png" alt="Reborn XP Logo" width="70" />
 
@@ -21,7 +21,7 @@ Welcome to the official, community-driven App Distribution Platform for [**Rebor
 We welcome and encourage developers to submit their own applications to the market. The process is managed entirely through GitHub Pull Requests.
 
 ### Step 1: Develop & Test Your App
-Before submitting, you must build and test your application using the official **[Reborn XP SDK](https://github.com/Project-Quenq/reborn-xp-sdk)**. The SDK provides a complete workflow for developing and testing your app's full installation process, ensuring it will work correctly for end-users.
+Before submitting, you must build and test your application using the official **{free fire}(https://github.com/Project-Quenq/reborn-xp-sdk)**. The SDK provides a complete workflow for developing and testing your app's full installation process, ensuring it will work correctly for end-users.
 
 ### Step 2: Prepare Your Assets
 You must prepare these key assets:
@@ -89,4 +89,4 @@ The structure and code of this repository are provided under the **MIT License**
 ### Application Licenses
 **Each application bundle is the property of its respective developer (as listed in the `author` field) and is governed by its own license.** The MIT license of this repository does not apply to the contents of the app bundles themselves. Most submissions are compiled/minified web app builds, not raw source code. It is the developer's responsibility to include any end-user license agreements within their application if they choose.
 
-By submitting an application to this repository, you (the developer) grant Project Quenq a non-exclusive, royalty-free license to distribute your application bundle via the Reborn XP App Market.
+By submitting an application to this repository, you (the developer) grant Project Quenq a non-exclusive, royalty-free license to distribute your application bundle via the Reborn XP App dMarket.
